@@ -1,0 +1,4 @@
+Dataset,Records,Date Range,Key Entities
+City Day,29531,2015-01-01 00:00:00 to 2020-07-01 00:00:00,26 cities
+Station Day,108035,2015-01-01 00:00:00 to 2020-07-01 00:00:00,110 stations
+Stations,230,N/A,"127 cities, 21 states"
